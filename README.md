@@ -11,7 +11,7 @@
 
 ```javascript
 // Numeri
-10;
+let numero = 10;
 
 // Stringhe
 let stringa = 'Ciao mondo!';
